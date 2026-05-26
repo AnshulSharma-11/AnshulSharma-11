@@ -14,13 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate dark snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: AnshulSharma-11
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake animation to output branch
+      - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
