@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulsharma-11" alt="anshulsharma-11" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce project](https://github.com/AnshulSharma-11/fullstack-E-commerce)
-                              [ORGPLUSE](https://github.com/AnshulSharma-11/ORGpluse)
-                              [Student-Management-system](https://github.com/AnshulSharma-11/Student-Management-system)
+- 🔭 I’m currently working on
+  [E-commerce project,](https://github.com/AnshulSharma-11/fullstack-E-commerce)<BR>
+  [ORGPLUSE,](https://github.com/AnshulSharma-11/ORGpluse)<BR>
+  [Student-Management-system](https://github.com/AnshulSharma-11/Student-Management-system)
 
 
 - 🌱 I’m currently learning **spring tools**
